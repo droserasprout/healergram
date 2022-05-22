@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Healergram</string>
+    <string name="app_desc">An Xposed module to heal your Telegram addiction</string>
+</resources>
